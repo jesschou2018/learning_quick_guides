@@ -1,0 +1,3 @@
+## Useful Twitter analysis links 
+
+https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/twitter-data-in-python/
