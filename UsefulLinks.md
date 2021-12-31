@@ -7,7 +7,8 @@ https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-ap
 
 git checkout -b CheckPoint2
 
-git push to get rid of deleted files 
+
+to get rid of deleted files 
 to add all files new files, changes and removed files  -use -A option 
 git add -A 
 then standard
