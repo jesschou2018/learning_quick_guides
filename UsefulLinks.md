@@ -11,8 +11,10 @@ git checkout -b CheckPoint2
 to get rid of deleted files when adding  -use -A option 
 git add -A 
 
-commit push 
+then: 
+
 git commit -m "comment here"
+
 git push origin branchname
 
 ## Explaining Semantic Versioning
